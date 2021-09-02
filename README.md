@@ -8,11 +8,11 @@
 #### Here you can find more about me:
 
 - 🏡 Currently living in Porto Alegre, RS - Brazil
-- 👨‍💻 Working as a Full Stack Developer at GPR-Cob.
-- 🎮 Developed and launched a Indie Game called ["Last Hope on Earth"](https://store.steampowered.com/agecheck/app/1407620/)
+- 👨‍💻 Working as a independent Full Stack Developer and Game Developer.
+- 🎮 Developed and launched two Indie Games on Steam. Check out ["Zombies Beyond Me"](https://store.steampowered.com/app/1652950/Zombies_Beyond_Me/)
 - 🤝 Collaborating on projects whenever I can.
-- ⚡ Fun fact: Gabe can't work whitout music (and a good cup o' coffee).
+- ⚡ Fun fact: Gabe can't work without music (and a good cup o' coffee).
 
 #### Connect Socially with me:
 💼 [LinkedIn](https://www.linkedin.com/in/gabealvess/)
-📷 [Instagram](https://www.instagram.com/gabealvss)
+📷 [Instagram](https://www.instagram.com/_alvesgabe)
