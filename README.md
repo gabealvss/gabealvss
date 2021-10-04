@@ -1,9 +1,4 @@
 ## Greetings 👋
-### Check my Stats 👇
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=gabealvss&show_icons=true&theme=dark) 
-### And my most used Languages 👇
-![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gabealvss&theme=dark)
 
 #### Here you can find more about me:
 
