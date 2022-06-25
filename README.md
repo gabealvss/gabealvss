@@ -9,4 +9,4 @@
 - ⚡ Fun fact: Gabe can't work without music (and a good cup o' coffee).
 
 #### Connect Socially with me:
-💼 [LinkedIn](https://www.linkedin.com/in/gabethealves/)
+💼 [LinkedIn]((https://www.linkedin.com/in/gabriel-alves-68205015a))
