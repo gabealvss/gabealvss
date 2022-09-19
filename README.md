@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/alvsgabee" target="blank"><img src="https://img.shields.io/twitter/follow/alvsgabee?logo=twitter&style=for-the-badge" alt="alvsgabee" /></a> </p>
 
-- 🔭 I’m currently working on [a bunch of projects xD, but follow up with my startup](https://www.instagram.com/alvstech/)
-
 - 🌱 I’m currently learning **Distributed Microsservices and Nanoservices Architecture, DevOps and Data Science**
 
 - 👯 I’m looking to collaborate on **any open source projects being developed in NodeJS, Flutter or Java**
