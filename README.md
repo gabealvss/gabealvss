@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabealvss" alt="gabealvss" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alvsgabee" target="blank"><img src="https://img.shields.io/twitter/follow/alvsgabee?logo=twitter&style=for-the-badge" alt="alvsgabee" /></a> </p>
-
 - 🌱 I’m currently learning **Distributed Microsservices and Nanoservices Architecture, DevOps and Data Science**
 
 - 👯 I’m looking to collaborate on **any open source projects being developed in NodeJS, Flutter or Java**
@@ -21,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alvsgabee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alvsgabee" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/alvsgabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alvsgabe" height="30" width="40" /></a>
 <a href="https://instagram.com/alvsgabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvsgabe" height="30" width="40" /></a>
 </p>
